@@ -3,7 +3,7 @@ redirects packet to the directed ip address
 
 # How to Run
 nslookup hackthissite.org
-\nthen get the Ip Address
+| then get the Ip Address
 #
 python3 ./ddos.py -s ipAddress -t 155
 
