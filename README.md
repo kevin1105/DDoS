@@ -2,7 +2,8 @@
 redirects packet to the directed ip address
 
 # How to Run
-nslookup "anyweb".com
+nslookup hackthissite.org
+then get the Ip Address
 #
 python3 ./ddos.py -s ipAddress -t 155
 
