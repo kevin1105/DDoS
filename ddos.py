@@ -77,7 +77,7 @@ def usage():
 	-h : help
 	-s : server ip
 	-p : port default 80
-	-t : turbo default 135 \033[0m''')
+	-t : thread default 135 \033[0m''')
 	sys.exit()
 
 
@@ -124,7 +124,7 @@ if __name__ == '__main__':
 	if len(sys.argv) < 2:
 		usage()
 	get_parameters()
-	print("\033[92m",host," port: ",str(port)," turbo: ",str(thr),"\033[0m")
+	print("\033[92m",host," port: ",str(port)," thread: ",str(thr),"\033[0m")
 	print("\033[94mPlease wait...\033[0m")
 	user_agent()
 	my_bots()
