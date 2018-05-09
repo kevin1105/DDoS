@@ -13,4 +13,5 @@ python3 ./ddos.py -s ipAddress -t 155
 
 # Reference
 https://www.youtube.com/watch?v=HVbRUhX2EPo
+https://gist.github.com/wahengchang/5a25f9fc1bdc157835d20d0a974ebce7
 https://github.com/cyweb/hammer
