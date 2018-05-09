@@ -1,4 +1,3 @@
-# 
 
 from queue import Queue
 from optparse import OptionParser
