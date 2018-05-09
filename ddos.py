@@ -1,3 +1,5 @@
+# Uses threading to make it Distributed Denial of Service Attack
+# 
 
 from queue import Queue
 from optparse import OptionParser
