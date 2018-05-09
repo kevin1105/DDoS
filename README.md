@@ -1,6 +1,9 @@
 # DDoS
 redirects packet to the directed ip address
 
+# Reference
+https://www.youtube.com/watch?v=HVbRUhX2EPo
+
 # How to Run
 nslookup "anyweb".com
 #
